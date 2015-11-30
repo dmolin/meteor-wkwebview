@@ -1,6 +1,4 @@
-## Quick branch from praciticalmeteor for meteor 1.2 support
-
-## silvervue:wkwebview
+## Quick branch from https://github.com/serviewcare/meteor-wkwebview/ for meteor 1.2 support, with added shrinkView support on IOS
 
 Switches your meteor ios app to WKWeb​View on iOS 8+, which is significantly faster and better than the old, clunky, memory leaking UIWebView.
 
