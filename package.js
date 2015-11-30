@@ -2,6 +2,7 @@ Package.describe({
   name: 'meteor-wkwebview',
   version: '0.1.5',
   summary: 'Use the significantly better and faster WKWebView in mobile apps on iOS 8+. port from https://github.com/serviewcare/meteor-wkwebview/',
+  git: 'https://github.com/dmolin/meteor-wkwebview.git',
   documentation: 'README.md'
 });
 
